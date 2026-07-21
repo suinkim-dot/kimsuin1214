@@ -82,9 +82,7 @@
 
 <br>
 
-![(2026)](https://img.shields.io/badge/(2025)-CCCCCC?style=flat-square)
-
-<br>
+![(2026)](https://img.shields.io/badge/(2026)-CCCCCC?style=flat-square)
 
 * Tableau스터디
 
