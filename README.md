@@ -24,6 +24,13 @@
 | **평균평점** | 3.5 | 3.3 | 3.25 |
 <br>
 
+### 자격증
+* SMAT(서비스경영자격) 3급(실무자)
+* 데이터 분석 준전문가(ADsP)
+* SQL 개발자(SQLD)
+
+<br>
+
 ### 활동 내용
 ![(2023)](https://img.shields.io/badge/(2023)-CCCCCC?style=flat-square)
 
